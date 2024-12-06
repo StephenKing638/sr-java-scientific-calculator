@@ -1,4 +1,4 @@
-# ![alt text](res\img1.png)
+# ![alt text](res/img1.png)
 
 # sr-java-scientific-calculator
 # By: StephenKing638 (BoneDaddy638)
